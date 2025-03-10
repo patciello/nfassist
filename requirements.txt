@@ -1,0 +1,7 @@
+# This project is primarily a Node.js/React application
+# No Python dependencies are required
+
+# System Requirements:
+# - Node.js 18.x or higher
+# - npm 9.x or higher
+# - Modern web browser (Chrome, Firefox, Safari, or Edge)
